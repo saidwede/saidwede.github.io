@@ -39,6 +39,9 @@
     color: #ffffff;
     font-family: FontOne;
 }
+html{
+    scroll-behavior: smooth;
+}
 a{
     text-decoration: none;
 }
