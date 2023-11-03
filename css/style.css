@@ -438,6 +438,12 @@ section .side p strong{
 .level-90.skill-level::after{
     width: 90%;
 }
+.red-link{
+    color: #ffbbbf;
+}
+.red-text{
+    color: #ff0613;
+}
 @media screen and (max-width: 768px) {
     main{
         transition: 0.5 ease all;
